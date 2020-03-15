@@ -1,1 +1,1 @@
-# KS_Transformer
+#Explanation of GPT2 step by step with code.
